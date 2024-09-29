@@ -31,3 +31,12 @@ Contents of this repository include:
 In order to reproduce the results of this study, first read and follow the instructions in the Data Instructions pdf located in the Data folder. Output the resulting dataset onto your device. Then read the resulting dataset into the Sentiment_review_analysis by replacing the value within the parenthesis of the read_csv() function with the file path to the dataset on your device. Run the edited Sentiment_review_analysis file and the analysis will be complete and compiled into a dataset that can also be outputted to your device.
 
 COME BACK AND FINISH AFTER CLEANING UP
+
+
+
+# References
+[1] “Welcome to Vadersentiment’s documentation!,” Welcome to VaderSentiment’s
+documentation! - VaderSentiment 3.3.1 documentation,
+https://vadersentiment.readthedocs.io/en/latest/ [accessed Sep. 13, 2024].
+
+[2] Nady Inky, "Sephora Products and Skincare Reviews", March, 2023, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data?select=reviews_750-1250.csv [Accessed Sep. 20, 2024].
